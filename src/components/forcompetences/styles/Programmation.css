@@ -1,0 +1,43 @@
+.programmation{
+
+    position: relative;
+    bottom:980px;
+    left:400px;
+    width: 200px;
+}
+
+li{
+   color: cadetblue;  
+}
+
+
+.progressbar{
+    height: 5px;
+    padding: 2px;
+    border-radius: 50px;
+    background: orange;
+    position:relative;
+}
+
+.languageList:nth-child(10) .progressbar{
+    background:greenyellow;
+}
+
+.languageList:nth-child(10),.logicielList:last-child{
+    text-align: right;
+}
+
+#idLogiciel,.logicielList{
+    position: relative;
+    bottom: 495px;
+    left: 300px;
+}
+
+.logicielList:last-child .progressbar{
+    
+    background:greenyellow;
+}
+
+html{
+    overflow: hidden;
+}

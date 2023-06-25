@@ -1,0 +1,50 @@
+.listeCertificat{
+
+    position: relative;
+    left: 1000px;
+    bottom: 795px;
+
+}
+
+
+
+#iData{
+    position: relative;
+    width: 30px;
+    padding: 0px;
+    top: 105px;
+    left: 65px;
+    background: none;
+
+}
+
+.imageData{
+
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 550px;
+    margin: 0px;
+    background: none;
+}
+
+#ijavascript{
+
+    position: relative;
+    padding: 0px;
+    top:200px;
+    left: 65px;
+    background: none;
+
+}
+
+.imageJavascript{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    position: relative;
+    top:150px ;
+    padding: 0px;
+    left:-10px; 
+    background: none;
+}

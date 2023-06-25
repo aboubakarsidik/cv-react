@@ -1,0 +1,32 @@
+.p1{
+    position: relative;
+    left:300px;
+    bottom: 500px;
+    margin: 0px;
+}
+
+
+.p2{
+    position: relative;
+    left:990px;
+    bottom:760px;
+    margin: 0px;
+    
+}
+
+#p3{
+
+    position: relative;
+    left:990px;
+    bottom:696px;
+}
+
+#p4{
+    position: relative;
+    left: 300px;
+    bottom: 900px;
+}
+
+div > h2 {
+    color: orange; 
+}

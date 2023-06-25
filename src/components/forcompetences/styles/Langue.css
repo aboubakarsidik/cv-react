@@ -1,0 +1,15 @@
+.langues{
+
+    position:relative;
+    left : 1260px;
+    bottom: 570px;
+    padding: 0px;
+
+}
+#imageFr{
+    width: 40px;
+}
+
+#imageEn{
+   width: 40px; 
+}

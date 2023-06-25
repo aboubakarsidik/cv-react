@@ -1,0 +1,74 @@
+.MenuNavigation{
+
+    position: relative;
+    top: 200px;
+}
+
+#PhNom {
+    position: relative;
+    left:35px;
+
+}
+
+h2{
+    color: cadetblue;
+}
+img {
+    position: relative;
+    left: 25px;
+
+}
+
+.listeMenu{
+    display: inline-block;
+    position:relative;
+    bottom:100px;
+    right: 25px;
+}
+
+.socialNetwork{
+  
+   margin-right: 0px;
+   display: flex;
+   align-items: stretch;
+   align-content: space-between;
+   position: relative;
+   right:25px;
+   bottom: 30px;
+}
+
+i{
+    
+    padding: 5px;
+    margin-right: 25px;
+    
+}
+li{
+
+    list-style: none;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: cadetblue;
+
+    
+}
+
+a:visited{
+    
+    color:cadetblue;
+}
+
+a:hover{
+    color:orange;
+    
+}
+
+#s1,#s2,#s3{
+
+    font-size: 30px;
+    position: relative;
+    bottom: 30px;
+}

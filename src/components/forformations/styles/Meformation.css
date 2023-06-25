@@ -1,0 +1,25 @@
+.classformation{
+
+    position: relative;
+    left: 300px;
+    bottom: 600px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.f1{
+position: relative;
+right: 30px;
+}
+
+.f2{
+   position: relative;
+   left: 700px;
+   bottom: 520px;
+}
+
+.f3{
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+}

@@ -1,0 +1,30 @@
+.job1{
+
+    position: relative;
+    bottom: 550px;
+    left: 300px;
+    
+}
+
+.job2{
+
+    position: relative;
+    bottom: 1180px;
+    left: 920px;
+}
+
+h3,h4{
+    color: orange;
+}
+
+#titreCompetence{
+    position:relative;
+    bottom: 10px;
+}
+
+#idBr{
+    position: relative;
+    text-decoration: none;
+    font-style: normal;
+    left: 40px;
+}

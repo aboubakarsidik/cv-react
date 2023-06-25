@@ -1,0 +1,39 @@
+.home{
+
+    position: relative;
+    left: 600px;
+    bottom: 600px;
+    width: 500px;
+    height:600px;
+    padding: 20px;
+    background: gainsboro;
+    border-radius: 50px;
+}
+#phome{
+    color: cadetblue;
+    font-size: 20px;
+    
+}
+#titre{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+#buttonCV{
+
+ position: relative;
+ left: 30px;
+ top: 50px;
+ padding: 50px;
+ width: 400px;
+ font-size: 30px;
+ font-variant-position:super;
+ color: cadetblue;
+ border-radius: 10% /50%;
+}
+
+#buttonCV:hover{
+background: transparent;
+}
