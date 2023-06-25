@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cv-react/static/css/main.7559b34a.css",
+    "main.js": "/cv-react/static/js/main.43f031de.js",
+    "static/media/data.pdf": "/cv-react/static/media/data.4eb950890e9ff37894b6.pdf",
+    "static/media/cv.pdf": "/cv-react/static/media/cv.fc42f6389fff036d94b6.pdf",
+    "static/media/javascript.png": "/cv-react/static/media/javascript.e1d663dcce61a4db8a85.png",
+    "static/media/js.pdf": "/cv-react/static/media/js.6fcbcd3d3d1b3155dc1d.pdf",
+    "static/media/dataScience.jpg": "/cv-react/static/media/dataScience.e4605fcb88b10a47d089.jpg",
+    "static/media/photo.png": "/cv-react/static/media/photo.c920752422c11377083e.png",
+    "static/media/en.ico": "/cv-react/static/media/en.37de502badf19f1ef1d5.ico",
+    "static/media/fr.ico": "/cv-react/static/media/fr.de6a39a174337be12952.ico",
+    "index.html": "/cv-react/index.html",
+    "main.7559b34a.css.map": "/cv-react/static/css/main.7559b34a.css.map",
+    "main.43f031de.js.map": "/cv-react/static/js/main.43f031de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7559b34a.css",
+    "static/js/main.43f031de.js"
+  ]
+}
