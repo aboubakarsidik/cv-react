@@ -15,7 +15,7 @@ const MenuNavigation = (
     <div className="MenuNavigation">
         <ul className="listeMenu">
             <li>
-                <NavLink exact to="/" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/" activeClassName = "navActive">
                       <i className="fas fa-home"></i>
                       <span>Home</span>
                 </NavLink>

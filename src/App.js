@@ -11,7 +11,7 @@ const menuNavigation = (
     <div>
     <BrowserRouter>
         <Routes>
-            <Route path = "/" exact Component={Home} />
+            <Route path = "/cv-react/" exact Component={Home} />
             <Route path = "/cv-react/competences" Component={Competences} />
             <Route path = "/cv-react/experiences"  Component={Experiences} />
             <Route path = "/cv-react/contacts" Component={Contacts} />
