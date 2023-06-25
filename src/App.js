@@ -12,11 +12,11 @@ const menuNavigation = (
     <BrowserRouter>
         <Routes>
             <Route path = "/" exact Component={Home} />
-            <Route path = "/competences" Component={Competences} />
-            <Route path = "/experiences"  Component={Experiences} />
-            <Route path = "/contacts" Component={Contacts} />
-            <Route path = "/projets"  Component={Projets} />
-            <Route path="/formations" Component={Formations}/>
+            <Route path = "/cv-react/competences" Component={Competences} />
+            <Route path = "/cv-react/experiences"  Component={Experiences} />
+            <Route path = "/cv-react/contacts" Component={Contacts} />
+            <Route path = "/cv-react/projets"  Component={Projets} />
+            <Route path="/cv-react/formations" Component={Formations}/>
         </Routes>
     </BrowserRouter>
     </div>

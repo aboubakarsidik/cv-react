@@ -21,25 +21,25 @@ const MenuNavigation = (
                 </NavLink>
             </li>
             <li>
-                <NavLink exact to="/projets" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/projets" activeClassName = "navActive">
                       <i className="fas fa-project-diagram"></i>
                       <span>Projets</span>
                 </NavLink>
             </li>
             <li>
-                <NavLink exact to="/experiences" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/experiences" activeClassName = "navActive">
                       <i className="fas fa-chart-line"></i>
                       <span>Experiences</span>
                 </NavLink>
             </li>
             <li>
-                <NavLink exact to="/competences" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/competences" activeClassName = "navActive">
                       <i className="fas fa-award"></i>
                       <span>Competences</span>
                 </NavLink>
             </li>
             <li>
-                <NavLink exact to="/formations" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/formations" activeClassName = "navActive">
                       <i className="fas fa-school"></i>
                       <span>Formations</span>
                 </NavLink>
