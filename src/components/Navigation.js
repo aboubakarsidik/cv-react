@@ -46,7 +46,7 @@ const MenuNavigation = (
             </li>
 
             <li>
-                <NavLink exact to="/contacts" activeClassName = "navActive">
+                <NavLink exact to="/cv-react/contacts" activeClassName = "navActive">
                       <i className="fas fa-phone"></i>
                       <span>Contacts</span>
                 </NavLink>
