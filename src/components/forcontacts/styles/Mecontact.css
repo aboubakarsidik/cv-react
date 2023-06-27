@@ -86,7 +86,7 @@ flex: 0 0 33%;
 }
 
 
-@media screen and (min-width:100px) {
+@media screen and (max-width:1000px) {
 
     .contacts{
         position: relative;
