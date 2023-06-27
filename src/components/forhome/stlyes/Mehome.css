@@ -43,5 +43,6 @@ background: transparent;
 #fordownload{
     color: cadetblue;
     position: relative;
-    bottom: 50px;
+    bottom: 40px;
+    font-size: 30px;
 }
