@@ -11,7 +11,7 @@ const textHome = (
       </p>
       <hr></hr>
       <a href={cv} alt="CV Aboubakar sidik MEITE" target = "_blank" id = "textCV">
-      <button id = "buttonCV">Télécharger mon CV</button>
+      <button id = "buttonCV"><h3 id="fordownload">Télécharger mon CV</h3></button>
       </a>
      
 </div>
