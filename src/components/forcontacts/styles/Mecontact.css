@@ -46,6 +46,7 @@ button{
     left:30px;
     border-radius: 50% 20% / 10% 40%;
     background-color: rgba(199, 217, 218, 0.884);
+    border-color: aliceblue;
 }
 
 button:hover{
