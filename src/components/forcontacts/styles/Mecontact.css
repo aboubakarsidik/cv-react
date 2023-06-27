@@ -84,3 +84,27 @@ flex: 0 0 33%;
     flex-wrap: wrap;
     margin: auto;
 }
+
+
+@media screen and (min-width:100px) {
+
+    .contacts{
+        position: relative;
+        left : 500px;
+        width: 300px;
+    }
+    button{
+        display: inline-block;
+        position: relative;
+        padding:40px;
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+        left:0px;
+        border-radius: 50% 20% / 10% 40%;
+        background-color: rgba(199, 217, 218, 0.884);
+        border-color: aliceblue;
+    }
+    
+    
+}
