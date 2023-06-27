@@ -66,4 +66,20 @@ button:hover{
 
     position: relative;
     right:35px;
+    flex: 0 0 33%;
+}
+
+#item2{
+   flex: 0 0 33%;
+}
+
+#item3{
+flex: 0 0 33%;
+
+}
+.flexIcon{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
 }
